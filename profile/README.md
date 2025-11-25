@@ -1,17 +1,20 @@
 <p align="center">
-  <p align="center">
-    <a href="https://oneentry.cloud" target="_blank">
-      <img src="https://oneentry.cloud/img/git/oneenrty_light.png" alt="OneEntry Platform" width="480">
-    </a>
-  </p>
+  <a href="https://oneentry.cloud" target="_blank">
+    <img src="https://oneentry.cloud/img/git/oneenrty_light.png" alt="OneEntry Platform" width="480">
+  </a>
+  <br /><br />
 </p>
-<br /><br />
 
 Welcome to the official repository of OneEntry.
 
 📚 [Documentation](https://doc.oneentry.cloud/docs/category/)  
-🛠️ [JS/TS SDK Documentation](https://js-sdk.oneentry.cloud/docs/index/)  
+🛠️ [JS/TS SDK Documentation](hgn=ttps://js-sdk.oneentry.cloud/docs/index/)
 📱 [Kotlin Multiplatform SDK Documentation](https://sdk-kmp.oneentry.cloud/)
+
+<br>
+
+ <p align="center"> 🚀 <a href="https://oneentry.cloud/instructions">Get started</a> &nbsp;|&nbsp; 👤 <a href="https://account.oneentry.cloud/authentication/register">SignUp</a></p>
+<br>
 
 OneEntry combines Headless CMS and Headless E‑Commerce into a single BaaS platform, providing a unified backend designed for scalability and seamless management of both content and commerce. The core concept of the platform is to free developers from server setup, ensure secure data storage, and deliver extensible business logic without plugins or external workarounds.
 
@@ -21,8 +24,6 @@ The architecture delivers data via API and renders it using any frontend technol
 
 To make development easier, we provide SDKs for **JavaScript/TypeScript**, **Kotlin**, and **Swift**.  
 These SDKs include full in‑code documentation, strict type definitions, and extensive usage guides with examples — enabling fast and frictionless integration of OneEntry into projects of any complexity.
-
----
 
 # Key Features
 
