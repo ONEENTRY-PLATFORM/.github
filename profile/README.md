@@ -9,13 +9,15 @@ Welcome to the official repository of OneEntry.
 
 <p>
 📚 <a href="https://doc.oneentry.cloud/docs/category/">Documentation</a>
-<br />
+</p>
+<p>
 🛠️ <a href="https://js-sdk.oneentry.cloud/docs/index/">JavaScript and TypeScript SDK Documentation</a>
-<br />
+</p>
+<p>
 📱 <a href="https://sdk-kmp.oneentry.cloud/">Kotlin Multiplatform SDK Documentation</a>
 </p>
 
-<br>
+<br />
 
  <p align="center"> 🚀 <a href="https://oneentry.cloud/instructions">Get started</a> &nbsp;|&nbsp; 👤 <a href="https://account.oneentry.cloud/authentication/register">SignUp</a></p>
 <br>
