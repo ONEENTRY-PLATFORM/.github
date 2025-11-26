@@ -7,18 +7,26 @@
 
 Welcome to the official repository of OneEntry.
 
-📚 [Documentation](https://doc.oneentry.cloud/docs/category/)
+<p>
+📚 <a href="https://doc.oneentry.cloud/docs/category/">Documentation</a>
+</p>
+<p>
+🛠️ <a href="https://js-sdk.oneentry.cloud/docs/index/">JavaScript and TypeScript SDK Documentation</a>
+</p>
+<p>
+📱 <a href="https://sdk-kmp.oneentry.cloud/">Kotlin Multiplatform SDK Documentation</a>
+</p>
 
-🛠️ [JS/TS SDK Documentation](https://js-sdk.oneentry.cloud/docs/index/)
-
-📱 [Kotlin Multiplatform SDK Documentation](https://sdk-kmp.oneentry.cloud/)
-
-<br>
+<br />
 
  <p align="center"> 🚀 <a href="https://oneentry.cloud/instructions">Get started</a> &nbsp;|&nbsp; 👤 <a href="https://account.oneentry.cloud/authentication/register">SignUp</a></p>
 <br>
 
 OneEntry combines Headless CMS and Headless E‑Commerce into a single BaaS platform, providing a unified backend designed for scalability and seamless management of both content and commerce. The core concept of the platform is to free developers from server setup, ensure secure data storage, and deliver extensible business logic without plugins or external workarounds.
+
+<a href="https://www.youtube.com/watch?v=WIdew_41UNM" target="_blank" alt="Watch the video">
+  <img src="https://img.youtube.com/vi/WIdew_41UNM/maxresdefault.jpg" alt="Watch the video"/>
+</a>
 
 ## How It Works
 
