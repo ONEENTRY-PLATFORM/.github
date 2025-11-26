@@ -113,11 +113,13 @@ Mappings between content and frontend components.
 
 Navigation structure.
 
+[Documentation](https://doc.oneentry.cloud/docs/category/menu)
+
 ## Forms
 
 Registration, login, feedback, comments, data collection.
 
-[Video](https://www.youtube.com/watch?v=wTfYAWwS1nk) | [Documentation](https://doc.oneentry.cloud/docs/category/forms)
+[Documentation](https://doc.oneentry.cloud/docs/category/forms)
 
 ## Multi‑language
 
