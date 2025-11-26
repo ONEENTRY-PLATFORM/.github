@@ -24,6 +24,8 @@ Welcome to the official repository of OneEntry.
 
 OneEntry combines Headless CMS and Headless E‑Commerce into a single BaaS platform, providing a unified backend designed for scalability and seamless management of both content and commerce. The core concept of the platform is to free developers from server setup, ensure secure data storage, and deliver extensible business logic without plugins or external workarounds.
 
+[![Watch the video](https://img.youtube.com/vi/WIdew_41UNM/maxresdefault.jpg)](https://www.youtube.com/watch?v=WIdew_41UNM)
+
 ## How It Works
 
 The architecture delivers data via API and renders it using any frontend technology: websites, mobile apps, social network mini‑apps, Smart TV, and more. OneEntry includes a ready‑made cloud infrastructure, eliminating the need for DevOps involvement and letting teams focus on product development.
