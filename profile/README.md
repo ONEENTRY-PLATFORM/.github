@@ -27,6 +27,7 @@ OneEntry combines Headless CMS and Headless E‑Commerce into a single BaaS plat
 <a href="https://www.youtube.com/watch?v=WIdew_41UNM" target="_blank" alt="Watch the video">
   <img src="https://img.youtube.com/vi/WIdew_41UNM/maxresdefault.jpg" alt="Watch the video"/>
 </a>
+<p align="center">(Video overview of the admin panel)</p>
 
 ## How It Works
 
