@@ -7,26 +7,16 @@
 
 Welcome to the official repository of OneEntry.
 
-<p>
-📚 <a href="https://doc.oneentry.cloud/docs/category/">Documentation</a>
-</p>
-<p>
-🛠️ <a href="https://js-sdk.oneentry.cloud/docs/index/">JavaScript and TypeScript SDK Documentation</a>
-</p>
-<p>
-📱 <a href="https://sdk-kmp.oneentry.cloud/">Kotlin Multiplatform SDK Documentation</a>
-</p>
+📚 [Documentation](https://doc.oneentry.cloud/docs/category/)  
+🛠️ [JS/TS SDK Documentation](hgn=ttps://js-sdk.oneentry.cloud/docs/index/)
+📱 [Kotlin Multiplatform SDK Documentation](https://sdk-kmp.oneentry.cloud/)
 
-<br />
+<br>
 
  <p align="center"> 🚀 <a href="https://oneentry.cloud/instructions">Get started</a> &nbsp;|&nbsp; 👤 <a href="https://account.oneentry.cloud/authentication/register">SignUp</a></p>
 <br>
 
 OneEntry combines Headless CMS and Headless E‑Commerce into a single BaaS platform, providing a unified backend designed for scalability and seamless management of both content and commerce. The core concept of the platform is to free developers from server setup, ensure secure data storage, and deliver extensible business logic without plugins or external workarounds.
-
-<a href="https://www.youtube.com/watch?v=WIdew_41UNM" target="_blank" alt="Watch the video">
-  <img src="https://img.youtube.com/vi/WIdew_41UNM/maxresdefault.jpg" alt="Watch the video"/>
-</a>
 
 ## How It Works
 
@@ -80,6 +70,8 @@ Each attribute supports:
     -   image size validation
     -   file validation
 
+[Video](https://www.youtube.com/watch?v=-F3B3mpp7yU&pp=0gcJCRUKAYcqIYzv) | [Documentation](https://doc.oneentry.cloud/docs/category/attributes)
+
 ## Pages
 
 Structure and content of website sections or app screens.
@@ -92,13 +84,19 @@ Includes:
 -   page ordering
 -   attaching attribute sets, blocks, and forms
 
+[Video](https://www.youtube.com/watch?v=AqraOf5WW7Y) | [Documentation](https://doc.oneentry.cloud/docs/category/pages)
+
 ## Blocks
 
 Reusable data blocks with or without logic.
 
+[Video](https://www.youtube.com/watch?v=cQpyEi-S4Gw) | [Documentation](https://doc.oneentry.cloud/docs/category/blocks)
+
 ## Templates
 
 Mappings between content and frontend components.
+
+[Documentation](https://doc.oneentry.cloud/docs/category/templates)
 
 ## Menus
 
@@ -108,9 +106,13 @@ Navigation structure.
 
 Registration, login, feedback, comments, data collection.
 
+[Video](https://www.youtube.com/watch?v=wTfYAWwS1nk) | [Documentation](https://doc.oneentry.cloud/docs/category/forms)
+
 ## Multi‑language
 
 Full multi‑language content support.
+
+[Video](https://www.youtube.com/watch?v=-7gl9-rU30M) | [Documentation](https://doc.oneentry.cloud/docs/category/languages)
 
 ## Real‑time Editing
 
@@ -120,9 +122,13 @@ Simultaneous work of multiple administrators.
 
 Fine‑grained permissions for system administrators.
 
+[Documentation](https://doc.oneentry.cloud/docs/category/administrators)
+
 ## Users & Permissions
 
 User registration, authentication, verification, roles, and access rights.
+
+[Video](https://www.youtube.com/watch?v=FoK1Wi75peE) | [Documentation](https://doc.oneentry.cloud/docs/category/users)
 
 ## Visual Text Editor
 
@@ -132,33 +138,49 @@ Supports HTML and Markdown.
 
 Connect external services, exchange data, and create custom API endpoints.
 
+[Video](https://www.youtube.com/watch?v=4RX4TsJm-tc) | [Documentation](https://doc.oneentry.cloud/docs/category/integrations)
+
 ## Integration Collections
 
 Custom data storage for external system data.
+
+[Video](https://www.youtube.com/watch?v=4RX4TsJm-tc) | [Documentation](https://doc.oneentry.cloud/docs/category/integration-collections)
 
 ## Journal
 
 Administrator activity history.
 
+[Video](https://www.youtube.com/watch?v=6FMJV7qW-c0) | [Documentation](https://doc.oneentry.cloud/docs/category/journal)
+
 ## Events
 
 Trigger actions based on data changes, configurable notifications and payload structure.
+
+[Video](https://www.youtube.com/watch?v=LGR_Zc1yDb4) | [Documentation](https://doc.oneentry.cloud/docs/category/events)
 
 ## Newsletters
 
 Email campaigns for users.
 
+[Documentation](https://doc.oneentry.cloud/docs/events/edit-event#Mailing-to-Users-Mailing-Mode)
+
 ## Push Notifications
 
 Configurable push delivery logic.
+
+[Documentation](https://doc.oneentry.cloud/docs/events/introduction/#Key-Interface-Elements-of-the-Events-Module)
 
 ## Custom Business Logic
 
 Extend platform logic using low‑code tools or custom modules in Node.js, Python, or PHP with built‑in CI/CD.
 
+[Video](https://www.youtube.com/watch?v=sQYEbioR_YQ) | [Documentation](https://doc.oneentry.cloud/docs/settings/custom_modules)
+
 ## Image Preview & Optimization
 
 Thumbnail presets, optimization pipelines, default thumbnails, per‑attribute thumbnail templates.
+
+[Documentation](https://doc.oneentry.cloud/docs/templates/templates_preview)
 
 ## Search
 
@@ -176,6 +198,8 @@ Import MySQL and PostgreSQL databases from other systems.
 
 Upload existing OpenAPI schemas directly into the Integration module.
 
+[Documentation](https://doc.oneentry.cloud/docs/integrations/import)
+
 ## Catalog Module
 
 ### Categories
@@ -186,33 +210,49 @@ Upload existing OpenAPI schemas directly into the Integration module.
 -   default blocks and forms per category
 -   attach attribute sets, blocks, forms
 
+[Video](https://www.youtube.com/watch?v=q9xj0Q630-g) | [Documentation](https://doc.oneentry.cloud/docs/catalog/add-catalog_element)
+
 ### Catalog Search & Filters
 
 Search and filter configuration.
+
+[Video](https://www.youtube.com/watch?v=a4-wcseD9Sg) | [Documentation](https://doc.oneentry.cloud/docs/catalog/filter-by-products)
 
 ## User Permissions
 
 Roles, access, verification.
 
+[Video](https://www.youtube.com/watch?v=FoK1Wi75peE) | [Documentation](https://doc.oneentry.cloud/docs/category/users)
+
 ## User States
 
 Persist user data: cart, favorites, browsing history, etc.
+
+[Documentation](https://doc.oneentry.cloud/docs/category/users)
 
 ## Promotions
 
 Reusable blocks for promotions based on Blocks logic.
 
+[Video](https://www.youtube.com/watch?v=cQpyEi-S4Gw) | [Documentation](https://doc.oneentry.cloud/docs/blocks/create-similar-products-block)
+
 ## Recommended Products
 
 Recommendation blocks (static or dynamic).
+
+[Video](https://www.youtube.com/watch?v=cQpyEi-S4Gw) | [Documentation](https://doc.oneentry.cloud/docs/blocks/create-product-block)
 
 ## Orders
 
 Full order management.
 
+[Video](https://www.youtube.com/watch?v=1V1SMbkOQq0) | [Documentation](https://doc.oneentry.cloud/docs/category/orders)
+
 ## Payments
 
 Payment processing.
+
+[Video](https://www.youtube.com/watch?v=1V1SMbkOQq0) | [Documentation](https://doc.oneentry.cloud/docs/category/payments)
 
 ## Statuses
 
@@ -222,17 +262,25 @@ Status management for products, orders, and payments.
 
 Connect any payment gateways.
 
+[Video](https://www.youtube.com/watch?v=4RX4TsJm-tc&pp=0gcJCRUKAYcqIYzv) | [Documentation](https://doc.oneentry.cloud/docs/integrations/paypal-example)
+
 ## Delivery Services
 
 Connect any delivery provider.
+
+[Video](https://www.youtube.com/watch?v=4RX4TsJm-tc&pp=0gcJCRUKAYcqIYzv) | [Documentation](https://doc.oneentry.cloud/docs/integrations/fedex-example)
 
 ## Grouping Products by Attributes
 
 Group products by characteristics like color, model, etc.
 
+[Video](https://www.youtube.com/watch?v=3OByJVOjWmI) | [Documentation](https://doc.oneentry.cloud/docs/catalog/product-links)
+
 ## Comments & Reviews
 
 Collect and manage reviews via Forms.
+
+[Documentation](https://doc.oneentry.cloud/docs/forms/create-form#4-Engagement-Forms)
 
 ## Discounts & Bonuses
 
@@ -242,9 +290,13 @@ Powered by Integration module with configurable low‑code logic.
 
 Upload from Excel, XML, CSV, folders, files.
 
+[Video](https://www.youtube.com/watch?v=q9xj0Q630-g) | [Documentation](https://doc.oneentry.cloud/docs/category/catalog-upload)
+
 ## Integration
 
 Low‑code tools to connect internal or external systems (ERP, CRM, inventory, accounting) and create custom API endpoints.
+
+[Video](https://www.youtube.com/watch?v=4RX4TsJm-tc) | [Documentation](https://doc.oneentry.cloud/docs/category/integrations)
 
 ---
 
