@@ -9,7 +9,7 @@ Welcome to the official repository of OneEntry.
 
 📚 [Documentation](https://doc.oneentry.cloud/docs/category/)
 
-🛠️ [JS/TS SDK Documentation](hgn=ttps://js-sdk.oneentry.cloud/docs/index/)
+🛠️ [JS/TS SDK Documentation](https://js-sdk.oneentry.cloud/docs/index/)
 
 📱 [Kotlin Multiplatform SDK Documentation](https://sdk-kmp.oneentry.cloud/)
 
