@@ -324,7 +324,7 @@ Export user data, order history, and payment records to Excel and CSV formats fo
 -   “Customers also bought” product module
 -   Content versioning
 -   File manager
--   -   Import users/orders/payments in Excel and CSV from other systems
+-   Import users/orders/payments in Excel and CSV from other systems
 -   MCP server
 
 ---
