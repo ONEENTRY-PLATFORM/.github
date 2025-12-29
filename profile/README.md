@@ -311,6 +311,10 @@ Low‑code tools to connect internal or external systems (ERP, CRM, inventory, a
 
 [Video](https://www.youtube.com/watch?v=4RX4TsJm-tc) | [Documentation](https://doc.oneentry.cloud/docs/category/integrations)
 
+## Export users/orders/payments to Excel & CSV
+
+Export user data, order history, and payment records to Excel and CSV formats for reporting, analysis, and data backup purposes.
+
 ---
 
 # In Development
@@ -318,10 +322,9 @@ Low‑code tools to connect internal or external systems (ERP, CRM, inventory, a
 -   Visual constructor for discounts & bonuses
 -   Ratings system
 -   “Customers also bought” product module
--   Export users/orders/payments to Excel & CSV
 -   Content versioning
 -   File manager
--   Direct export to Excel & CSV
+-   -   Import users/orders/payments in Excel and CSV from other systems
 -   MCP server
 
 ---
